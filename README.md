@@ -5,7 +5,7 @@ NPCameraView is a UIView subclass that acts like a camera.
 
 ![Alt text](/Screenshots/screenshot.png "Screenshot")
 
-The included sample projects demonstrates all the basic features.
+The included sample project demonstrates all the basic features.
 
 
 Features
