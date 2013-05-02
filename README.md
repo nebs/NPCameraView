@@ -19,16 +19,16 @@ Features
 Installation
 ------------
 
-Add NPCameraView.h and NPCameraView.m to your project.
-Import NPCameraView.h
-Add AVFoundation and CoreMedia frameworks to your project.
+- Add NPCameraView.h and NPCameraView.m to your project.
+- Import NPCameraView.h
+- Add AVFoundation and CoreMedia frameworks to your project.
 
 
 Initialization
 --------------
 
-You initialize an NPCameraView just like any other UIView.  The simplest way is to drag a UIView in IB and change its class to NPCameraView.
-
+You initialize an NPCameraView just like any other UIView.  
+The simplest way is to drag a UIView in IB and change its class to NPCameraView.
 As soon as an NPCameraView is created you will be able to see a live preview from the camera.
 
 
